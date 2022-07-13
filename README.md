@@ -49,11 +49,12 @@ Die Konstante wird mit `true` (Häckchen gesetzt) oder `false` (nicht gesetzt) b
 Berechne nun den Preis der Buchung.
 
 Die Preisgestaltung:
-* Preis für ein Zimmer pro Nacht: **50€**
-* Preis pro Person pro Nacht: **10€**
+* Preis pro Nacht für eine Person: **50€**
+* Aufschlag für jede weitere Person: **10€**
 * Preis für jedes Frühstück: **8€**
 
-Beispiel: 2 Nächte, 3 Personen, mit Früstück: `2 * 50 + `3 * 10` + 3 * 8`
+Beispiel: 2 Nächte, 3 Personen, mit Früstück: `2 * 50 + 2 * 10 + 3 * 8`
+Beispiel: 2 Nächte, 1 Person ohne Früstück: `2 * 50`
 
 Du darfst auch eine andere Preisgestaltung wählen.
 
