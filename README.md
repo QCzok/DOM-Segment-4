@@ -54,6 +54,7 @@ Die Preisgestaltung:
 * Preis für jedes Frühstück: **8€**
 
 Beispiel: 2 Nächte, 3 Personen, mit Früstück: `2 * 50 + 2 * 10 + 3 * 8`
+
 Beispiel: 2 Nächte, 1 Person ohne Früstück: `2 * 50`
 
 Du darfst auch eine andere Preisgestaltung wählen.
